@@ -1,0 +1,13 @@
+C:\Users\pc\Downloads\Curso c#\Proteste\Proteste\bin\Debug\netcoreapp3.1\Proteste.exe
+C:\Users\pc\Downloads\Curso c#\Proteste\Proteste\bin\Debug\netcoreapp3.1\Proteste.deps.json
+C:\Users\pc\Downloads\Curso c#\Proteste\Proteste\bin\Debug\netcoreapp3.1\Proteste.runtimeconfig.json
+C:\Users\pc\Downloads\Curso c#\Proteste\Proteste\bin\Debug\netcoreapp3.1\Proteste.runtimeconfig.dev.json
+C:\Users\pc\Downloads\Curso c#\Proteste\Proteste\bin\Debug\netcoreapp3.1\Proteste.dll
+C:\Users\pc\Downloads\Curso c#\Proteste\Proteste\bin\Debug\netcoreapp3.1\Proteste.pdb
+C:\Users\pc\Downloads\Curso c#\Proteste\Proteste\obj\Debug\netcoreapp3.1\Proteste.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\Curso c#\Proteste\Proteste\obj\Debug\netcoreapp3.1\Proteste.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\Curso c#\Proteste\Proteste\obj\Debug\netcoreapp3.1\Proteste.AssemblyInfo.cs
+C:\Users\pc\Downloads\Curso c#\Proteste\Proteste\obj\Debug\netcoreapp3.1\Proteste.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Curso c#\Proteste\Proteste\obj\Debug\netcoreapp3.1\Proteste.dll
+C:\Users\pc\Downloads\Curso c#\Proteste\Proteste\obj\Debug\netcoreapp3.1\Proteste.pdb
+C:\Users\pc\Downloads\Curso c#\Proteste\Proteste\obj\Debug\netcoreapp3.1\Proteste.genruntimeconfig.cache
